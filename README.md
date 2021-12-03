@@ -1,2 +1,4 @@
-### start-day is a time and date tool that utilises Javascript, HTML and CSS. 
+## Start-day is a personal project that displays real time and date. It was built using Javascript, HTML and CSS.
+
+# Follow the link to view the application at work:  
 
